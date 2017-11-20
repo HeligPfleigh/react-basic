@@ -1,0 +1,4 @@
+# remove node_modules
+learn-reactjs-basic/node_modules
+note-management/node_modules
+redux-khoapham/node_modules
